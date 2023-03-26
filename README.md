@@ -111,7 +111,7 @@ std::variant<int, std::string, std::vector<int>> get_variant() {
 
 ### Задание 3*
 
-[Операции над углами](https://github.com/netology-code/cppl-homeworks/tree/main/01/03).
+[Операции над углами](03).
 <details>
 # Задача 3*. Операции над углами
 
